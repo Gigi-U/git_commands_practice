@@ -35,4 +35,15 @@ Welcome to the Git Commands Practice Repository! This repository is designed to 
 
 ## Features
 
+------------------------------------------------------------------------
+        ********************* BRANCHES *********************
+------------------------------------------------------------------------
+
+main --> secured
+|
+|___develop
+    |___ backend 
+    |___ frontend
+    |___ fullstack
+
 .
