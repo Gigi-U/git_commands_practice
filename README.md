@@ -42,7 +42,8 @@ Welcome to the Git Commands Practice Repository! This repository is designed to 
 main --> secured
 |
 |___develop
-    |___ backend
+    |___ backend 
     |___ frontend
     |___ fullstack
 
+.
