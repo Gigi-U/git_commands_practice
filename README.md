@@ -47,3 +47,21 @@ main --> secured
     |___ fullstack
 
 creating branches ok
+
+https://git-scm.com/book/es/v2/Ramificaciones-en-Git-Flujos-de-Trabajo-Ramificados
+
+https://git-scm.com/book/es/v2/Fundamentos-de-Git-Trabajar-con-Remotos#r_remote_repos
+
+.[!NOTE].
+Esto es info adicional ara ayudar al usuario
+
+.[!TIP].
+un consejo util o sugerencia
+
+.[!IMPORTANT].
+info crucial
+.[!WARNING].
+necesita atencion del usuario
+
+.[!CAUTION]. 
+consecuencias negativas si no haces caso
